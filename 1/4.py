@@ -1,0 +1,10 @@
+#4
+print(25*(2-48)+5**2)
+#5
+print(0b100/0x5d)
+#6
+a=13
+a//=4
+print(a)
+#7
+print(divmod(26,7))
